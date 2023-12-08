@@ -5,7 +5,7 @@ import NavigationMenuDemo from '@/components/header'
 import { Label } from '@/components/ui/label';
 
 
-const docs =() => {
+const docsPage =() => {
   return (
     <main >
    <NavigationMenuDemo />
@@ -47,4 +47,4 @@ const docs =() => {
   )
 }
 
-export default docs;
+export default docsPage;
